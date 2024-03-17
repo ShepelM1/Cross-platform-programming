@@ -330,7 +330,6 @@ D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LW3.AssemblyInfo.cs
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LW3.csproj.CoreCompileInputs.cache
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
-D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LW3.csproj.CopyComplete
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LW3.dll
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\LW3.dll
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LW3.pdb
@@ -352,3 +351,5 @@ D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LW3.sourcelink.json
+D:\Cross-platform programming\Cross-platform-programming\LW3\LW3\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LW3.csproj.Up2Date

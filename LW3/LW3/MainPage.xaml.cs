@@ -25,7 +25,6 @@
             {
                 resultLabel.Text = "Please enter a valid number.";
             }
-            SemanticScreenReader.Announce("Hi");
         }
     }
 }
