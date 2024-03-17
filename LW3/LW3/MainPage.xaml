@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LW3.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Entry x:Name="inputEntry"
+                   WidthRequest="200" HeightRequest="50" 
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"
+                   Placeholder="Enter a number" />
+            <Button Text="Calculate Fibonacci" Clicked="CalculateFibonacci" WidthRequest="200" HeightRequest="50"/>
+            <Label x:Name="resultLabel" HorizontalTextAlignment="Center" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
